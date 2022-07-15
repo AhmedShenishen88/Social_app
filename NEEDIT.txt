@@ -1,0 +1,25 @@
+{
+    "to":
+    "fd-2c5XNQHaytDcgwO-HlD:APA91bGE0Gvq1f77ybzDLYwCy6j7cBc5y7dA2riBzOzPIJ7Dul4mKYNdCVCrlNYyn7R_LFjlxjKUS6juf5FekALa1RN0KXVIbR5M4rK5Z7_x0b_exRxmCbq_Q0GMtLQdSGd7g8k1GpBG",
+    "notification":
+    {
+        "title":"you have recieved a message from ahmed shenishen",
+        "body":"testing body from post man",
+        "sound":"default"
+    },
+    "android":{
+        "priority":"HIGH",
+        "notification":{
+            "notification_priority":"PRIORITY_MAX",
+            "sound":"default",
+            "default_sound":true,
+            "default_vibrate_timings":true,
+            "default_light_settings":true
+        }
+    },
+    "data":{
+        "type":"order",
+        "id":"87",
+        "click_action":"FLUTTER_NOTIFICATION_CLICK"
+    }
+}
